@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Test Text
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+# Projects
 
-There are currently two themes built on Poole:
+FrogHat LLC is a software company primarily concerned with mobile development, specifically iOS. Its members include:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+**Peter Stewart**: Founder, CEO, and Developer <br/>
+**Ian Hanken**: Developer <br/>
+**Melissa Dalton**: Artist <br/>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Tappy Dragon
 
-## Setup
+Tappy Dragon is a mobile game heavily influenced by the popular mobile game Flappy Bird. It is currently being rebuilt with machine learning techniques built in to test the efficiency of different machine learning algorithms.
 
-Some fun facts about the setup of this project include:
+## Alien Adventure
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Alien Adventure is a puzzle game being developed for iOS. It is scheduled to be finished later this year.
